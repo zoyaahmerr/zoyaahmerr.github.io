@@ -1,20 +1,17 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiro Kuriwaki"
+title                    : "Zoya Ahmer"
 title_separator          : "-"
-name                     : "Shiro Kuriwaki"
-url                      : "https://kuriwaki.github.io"
+name                     : "Zoya Ahmer"
+url                      : "https://zoyaahmerr.github.io"
 baseurl                  : "/"
-repository               : "kuriwaki/kuriwaki.github.io"
+repository               : "zoyaahmerr/zoyaahmerr.github.io"
 logo                     : "/favicon.ico"
 github                   : [metadata]
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "UA-166018803-1"
-    anonymize_ip         : # true, false (default)
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
 
 
 sass:
