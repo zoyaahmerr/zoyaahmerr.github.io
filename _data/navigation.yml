@@ -1,7 +1,5 @@
 main:
   - title: "<b>Research</b>"
     url: /#research
-  - title: "<b>Publications</b>"
-    url: /#pubs
   - title: "<b>C.V.</b>"
     url: /cv/ahmer_cv.pdf
